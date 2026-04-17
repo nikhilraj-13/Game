@@ -1,1 +1,1 @@
-DEMO LINK -
+DEMO LINK - https://flip-card-game-test-your-memory.netlify.app/
